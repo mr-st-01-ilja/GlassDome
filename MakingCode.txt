@@ -1,0 +1,9 @@
+var random.x = randf(100, -100)
+var random.y = randf(100, -100)
+
+if random.x >= 50 and random.y >= 50 then {
+    print("Top Right Corner")
+else
+    print("Not In Right Corner")
+}
+print("finished script")

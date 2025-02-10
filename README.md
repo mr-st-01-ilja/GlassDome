@@ -1,4 +1,8 @@
 # GlassDome
-This is for my school work experience
-# sub heading
-I like playing games and know a bit about coding games
+
+This is part of my work experience.
+
+I like playing games and know something making coding games.
+
+# My Learning
+On monday I learned how to use Commit and Push.
