@@ -13,7 +13,6 @@ pya.hotkey("ctrl", "v")
 
 
 
-
 pya.moveTo(1535, 25, duration=0.3)
 time.sleep(1)
 pya.click()

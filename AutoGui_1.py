@@ -1,14 +1,14 @@
 import tkinter
 import time
 import pyautogui
-runs = 60
-runs_10 = 6
+runs = 54
+runs_10 = 5
 runs1= 3
 runs2= 3
 runs3= 4
 runs4= 3
-runs5= 3
-runs6= 0
+runs5= 2
+
 
 
 
