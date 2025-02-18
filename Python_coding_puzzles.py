@@ -7,6 +7,15 @@ import random
 
 
 
+
+
+
+
+
+
+
+
+
 """ 16
 My_Var1 = 48
 
@@ -23,6 +32,7 @@ while My_Var1 > 9:
     My_Var1 = y+x
     print(My_Var1)
 """
+
 
 
 """ 12/13/14/15
